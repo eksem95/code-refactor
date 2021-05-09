@@ -6,5 +6,5 @@ Description:
 HW assignment 1: refactor existing code with proper semantics and accessibility. 
 
 ![screenshot1](github.com/eksem95/code-refactor/main/assets/images/screenshot.png)
-![screenshot2](./assets/images/screenshot2.png)
+![screenshot2](/assets/images/screenshot2.png)
 
