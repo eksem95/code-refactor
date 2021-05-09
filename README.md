@@ -1,4 +1,4 @@
-# Title: code-refactor
+# code-refactor
 
 GitHub deployment: https://eksem95.github.io/code-refactor/
 
